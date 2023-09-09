@@ -5,6 +5,7 @@ using namespace std;
 int algoritmo(int n);
 void imprimir(int i, int j);
 
+/*
 int main() {
     int i;
     int j;
@@ -14,6 +15,7 @@ int main() {
     }
     return 0;
 }
+*/
 
 int algoritmo(int n){
     int cont=0;
